@@ -11,8 +11,7 @@ controller.left.onEvent(ControllerButtonEvent.Released, function () {
     controller.moveSprite(mySprite, 0, 0)
 })
 controller.right.onEvent(ControllerButtonEvent.Pressed, function () {
-    mySprite.setImage(assets.image`villager1WalkRight2`)
-    controller.moveSprite(mySprite, 100, 0)
+	
 })
 let mySprite: Sprite = null
 scene.setBackgroundImage(assets.image`moon`)
