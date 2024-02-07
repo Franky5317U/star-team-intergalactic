@@ -21,7 +21,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.46",
+        "target": "1.12.47",
         "targetId": "arcade"
     },
     "supportedTargets": [
@@ -30,20 +30,20 @@
     "preferredEditor": "blocksprj",
     "palette": [
         "#000000",
-        "#f4f4f4",
-        "#b13e53",
-        "#a7f070",
-        "#ef7d57",
-        "#ffcd75",
-        "#808080",
-        "#38b764",
-        "#29366f",
-        "#3b5dc9",
-        "#41a6f6",
-        "#566c86",
-        "#D1D1D1",
-        "#94b0c2",
-        "#9E1A1A",
-        "#1a1c2c"
+        "#FFFFFF",
+        "#FF2121",
+        "#FF93C4",
+        "#FF8135",
+        "#FFF609",
+        "#249CA3",
+        "#78DC52",
+        "#003FAD",
+        "#87F2FF",
+        "#8E2EC4",
+        "#A4839F",
+        "#5C406c",
+        "#E5CDC4",
+        "#91463d",
+        "#000000"
     ]
 }
